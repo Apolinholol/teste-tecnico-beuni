@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\maps\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:maps\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\beuniapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:beuniapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\nhibernateextension\\nhibernateextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:nhibernateextension\\nhibernateextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\repositorys\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:repositorys\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|c:\\users\\mathe\\documents\\projetos\\projetobeuni\\beuniapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5736048E-AE59-42DB-BF96-FA8793B289CF}|BeuniAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeuniAPI.http",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\BeuniAPI.http",
+              "RelativeDocumentMoniker": "BeuniAPI.http",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\BeuniAPI.http",
+              "RelativeToolTip": "BeuniAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-04T17:48:01.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:39:39.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Repositorys\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositorys\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Repositorys\\ProductRepository.cs",
+              "RelativeToolTip": "Repositorys\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:26:21.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:24:10.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-04T17:18:41.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NHibernateExtension.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\NHibernateExtension\\NHibernateExtension.cs",
+              "RelativeDocumentMoniker": "NHibernateExtension\\NHibernateExtension.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\NHibernateExtension\\NHibernateExtension.cs",
+              "RelativeToolTip": "NHibernateExtension\\NHibernateExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:47:09.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductMap.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Maps\\ProductMap.cs",
+              "RelativeDocumentMoniker": "Maps\\ProductMap.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Maps\\ProductMap.cs",
+              "RelativeToolTip": "Maps\\ProductMap.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:45:00.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:44:00.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:49:01.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:47:40.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Projetos\\ProjetoBeuni\\BeuniAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T01:45:15.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
